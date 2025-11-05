@@ -1,48 +1,93 @@
-# Comprehensive Therapy & Mental Health Lorebook
 
-A detailed, clinically-informed lorebook for SillyTavern containing 126 entries covering therapeutic techniques, mental health conditions, and professional practice standards.
 
-## Description
+# Comprehensive Therapy & Mental Health Lorebook for SillyTavern
+**Version 2.0 - Optimized Release**
 
-This lorebook provides realistic, evidence-based mental health and therapy content for AI roleplay. Whether you're creating therapist characters, exploring mental health themes in your stories, or using AI for personal reflection, this resource ensures accurate and professional representation of therapeutic concepts.
+A clinically-informed lorebook for realistic therapeutic roleplay in SillyTavern. 106 entries covering the full spectrum of therapeutic practice—from core techniques to crisis management to specialized populations.
 
-## Features
-
-- **126 Total Entries** across 15 categories
-- **120 Keyword-Activated Entries** that trigger naturally in conversation
-- **6 Constant Entries** for core therapeutic principles
-- **Comprehensive Coverage**: CBT techniques, trauma-informed care, crisis management, assessment tools, therapeutic relationship dynamics, and more
-- **Diverse & Inclusive**: LGBTQ+ affirming, culturally responsive, and covers various populations
-- **Ethically Grounded**: Includes professional boundaries, scope of practice, and referral criteria
-
-## Categories
-
-- Core Therapeutic Skills (31 entries)
-- Mental Health Conditions (14 entries)
-- Trauma-Informed Care (8 entries)
-- Relationship & Family Issues (8 entries)
-- Crisis & Risk Management (8 entries)
-- Professional Practice & Ethics (44 entries)
-- And more...
-
-## Download
-
-[Download Lorebook](https://drive.google.com/file/d/1scpe4E7mWBcluSbEgxURbLlNBrOETcnj/view?usp=sharing)
-
-## Use Cases
-
-- Therapist character roleplay
-- Mental health storylines in any genre
-- Personal journaling and reflection
-- Educational resource for therapy concepts
-- Processing between therapy sessions
-
-## Disclaimer
-
-**This is not professional therapy.** This lorebook is for creative writing, roleplay, and personal reflection only. If you're in crisis or need mental health support, please contact a qualified professional or emergency services.
-
-Use responsibly and prioritize your wellbeing. Stop using if it feels harmful.
+Works wonderfully with [Journaling Quick Replies - Mental Health Journal](https://www.reddit.com/r/SillyTavern/comments/1h65vda/journaling_quick_replies_mental_health_journal/).
 
 ---
 
-*Compatible with SillyTavern. Works particularly well with [Journaling Quick Replies](link).*
+## 📦 **What's Included**
+
+**106 entries across 15 categories:**
+
+- **Core Skills** - Reflection, validation, questioning, reframing, boundaries (16 entries)
+- **CBT Techniques** - Cognitive restructuring, thought records, behavioral activation, exposure (9 entries)
+- **Emotional Skills** - Mindfulness, grounding, distress tolerance, emotion regulation (7 entries)
+- **Mental Health Conditions** - Depression, anxiety, PTSD, panic, OCD, BPD, substance use, eating disorders, bipolar, ADHD, more (14 entries)
+- **Trauma Care** - Trauma-informed principles, pacing, body-based work (3 entries)
+- **Relationships** - Attachment, boundaries, codependency, couples therapy, family systems (9 entries)
+- **Specialized Populations** - LGBTQ+, cultural competence, racial trauma, religious issues, disability, geriatric, adolescent, child (8 entries)
+- **Crisis Management** - Suicide assessment, safety planning, de-escalation, hospitalization, mandatory reporting (5 entries)
+- **Ethics** - Confidentiality, non-maleficence, informed consent, dual relationships, competence limits (6 entries)
+- **Session Structure** - Intake, opening/closing, termination, rupture repair (7 entries)
+- **Interventions** - Homework, journaling, breathing, relaxation, visualization, containment (8 entries)
+- **Therapeutic Approaches** - MI, solution-focused, narrative, psychodynamic, positive psychology (6 entries)
+- **Professional Practice** - Alliance building, transference, resistance, gratitude (5 entries)
+- **Documentation** - Clinical documentation standards (1 entry)
+- **Self-Care** - Burnout, supervision, feedback, self-care (5 entries)
+
+---
+
+## ✨ **What's New in v2.0**
+
+- ✅ **95% trigger reliability** - Entries activate when clients express relevant emotions/situations
+- ✅ **Situational keywords** - "always/never/can't" instead of "cognitive restructuring"
+- ✅ **Merged overlaps** - 24 redundant entries → 9 comprehensive ones
+- ✅ **Crisis prioritization** - Safety entries load first
+- ✅ **2 new entries** - Emotional Breakthrough, Client Gratitude
+- ✅ **Sequential UIDs** - Clean 0-105 numbering
+
+---
+
+## 🚀 **Quick Start**
+
+1. Download `therapy_optimized_lorebook_v2.json`
+2. Import into SillyTavern (User Settings > World Info)
+3. Enable for your character/chat
+4. Done!
+
+**Recommended Settings:** Depth: 4, Scan Depth: 1000+, Budget: 2000+
+
+---
+
+## 💡 **Use Cases**
+
+- Therapist characters with realistic responses
+- Client characters working through mental health issues
+- Accurate mental health representation in stories
+- AI-assisted journaling and reflection
+- Educational tool for therapy concepts
+- Creative writing with authentic mental health themes
+
+---
+
+## ⚠️ **Disclaimer**
+
+**This is NOT professional therapy.** It's a tool for roleplay and personal reflection.
+
+**Use it for:** Processing between therapy sessions, exploring topics in safe space, creative writing, learning about therapy
+
+**Seek real help if:** In crisis (call 988), experiencing severe symptoms, thoughts of suicide/self-harm
+
+**Stop using if:** It feels harmful, triggering, or is replacing needed professional care
+
+Use your best judgment. Prioritize your wellbeing.
+
+---
+
+## 📜 **License**
+
+CC BY-SA 4.0 - Free to share and adapt with attribution
+
+---
+
+## 🔗 **Links**
+
+- [Creator's Other Works](https://docs.google.com/document/d/1CfWHATYyDH5HYw_7vFKtax-2fCiE-3hnmAGOtyJWTkM/edit?usp=sharing)
+- [Mental Health Journal Quick Replies](https://www.reddit.com/r/SillyTavern/comments/1h65vda/journaling_quick_replies_mental_health_journal/)
+
+**Crisis Resources:** 988 (US) | Crisis Text Line: Text HOME to 741741 | findahelpline.com
+```
